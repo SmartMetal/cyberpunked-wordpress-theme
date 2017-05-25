@@ -1,6 +1,7 @@
  # cyberpunked-wordpress-theme
- <a href="https://goo.gl/photos/phPJncp2fnzj3DHQ7">Video of mobile render</a>
+
  A cyberpunk inspired theme for wordrpess created for my blog <a href="http://trashtech.webatu.com">Trash Tech</a>.
+ <br><a href="https://goo.gl/photos/phPJncp2fnzj3DHQ7">Video of mobile render</a>
  <hr></hr>
  Inspired by the colors and design of this <a href="https://github.com/staltz/hyperpunk">cyberpunk theme for HyperTerm</a> by <a href="https://github.com/staltz">Staltz</a>
   <hr></hr>

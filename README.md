@@ -1,31 +1,13 @@
-#################################
-This is a HIGHLY unfinished product in the making. Please use it with caution.
-################################
-
-Currently using Foundation 6.3.
-
-### What is JointsWP?
-JointsWP is a blank WordPress theme built with Foundation 6, giving you all the power and flexibility you need to build complex, mobile friendly websites without having to start from scratch.
-
-Starting its humble life as a fork of the popular theme Bones, JointsWP is now the foundation of thousands of websites across the globe.
-
-### What comes with JointsWP?
-JointsWP comes pre-baked with all of the great features that are found in the Foundation framework – simply put, if it works in Foundation, it will work in JointsWP. The theme also includes:
-
-- Foundation Navigation Options
-- Motion-UI
-- Grid archive templates
-- Translation Support
-- Bower and Gulp Support
-- And much, much more!
-
-### What tools do I need to use JointsWP?
-You can use whatever you want – seriously. While the Sass version comes with Bower and Gulp support out of the box, you aren’t required to use those by any means. You can use CodeKit, Grunt, Compass or nothing at all. It’s completely up to you how you decide to build you theme – JointsWP won’t get in the way of your workflow.
-
-### Getting Started With Gulp
-- Install [node.js](https://nodejs.org).
-- Using the command line, navigate to your theme directory
-- Run npm install
-- Run gulp to confirm everything is working
-
-[Read more about how Gulp is used with JointsWP.](http://jointswp.com/docs/gulp/)
+ # cyberpunked-wordpress-theme
+ A cyberpunk inspired theme for wordrpess created for my blog <a href="http://trashtech.webatu.com">Trash Tech</a>.
+ <hr></hr>
+ Inspired by the colors and design of this <a href="https://github.com/staltz/hyperpunk">cyberpunk theme for HyperTerm</a> by <a href="https://github.com/staltz">Staltz</a>
+  <hr></hr>
+  <p>Designed using <a href="http://jointswp.com/">JointsWP</a> under the MIT License. (<a href="http://jointswp.com/docs/">Docs</a>)</p>
+  <p><a href="http://jointswp.com/">JointsWP</a> is based on <a href="https://wordpress.org/">WordPress</a> and <a href="http://foundation.zurb.com/">Foundation 6 Framework<a></p>
+ +<b>Right now this isn't much more than a reskin though tbqh fam</b>
+<a href="https://goo.gl/photos/phPJncp2fnzj3DHQ7">Video of mobile render</a>
+<img scr="https://goo.gl/photos/5k2tDXXRKXPj6DtA7" alt="demo image 1">
+<img scr="" alt="demo image 2">
+<img scr="" alt="demo image 3">
+<img scr="" alt="demo image 4">
